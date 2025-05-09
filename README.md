@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Limesh-B/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Limesh-B/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Limesh-B/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Limesh-B/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Limesh-B/LeetCode/tree/master/0088-merge-sorted-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Limesh-B/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Limesh-B/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Limesh-B/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Limesh-B/LeetCode/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
