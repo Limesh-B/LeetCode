@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Limesh-B/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Limesh-B/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Limesh-B/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [3194-find-words-containing-character](https://github.com/Limesh-B/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Limesh-B/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Limesh-B/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Limesh-B/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Limesh-B/LeetCode/tree/master/0415-add-strings) |
+| [3194-find-words-containing-character](https://github.com/Limesh-B/LeetCode/tree/master/3194-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
