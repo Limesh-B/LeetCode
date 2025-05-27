@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Limesh-B/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Limesh-B/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Limesh-B/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Limesh-B/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Limesh-B/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Limesh-B/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3194-find-words-containing-character](https://github.com/Limesh-B/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Limesh-B/LeetCode/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Limesh-B/LeetCode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Limesh-B/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Limesh-B/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Limesh-B/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Trie
 |  |
