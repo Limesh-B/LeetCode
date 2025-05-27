@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Limesh-B/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Limesh-B/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Limesh-B/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/Limesh-B/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Limesh-B/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3194-find-words-containing-character](https://github.com/Limesh-B/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Limesh-B/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
