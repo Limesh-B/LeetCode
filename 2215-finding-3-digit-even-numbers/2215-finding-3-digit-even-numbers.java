@@ -1,34 +1,29 @@
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-        Set<Integer> result = new HashSet<>();
+        int[] freq = new int[10];
+        for (int d : digits) freq[d]++;
 
-        int n = digits.length;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (j == i) continue;
-                for (int k = 0; k < n; k++) {
-                    if (k == i || k == j) continue;
-
-                    int d1 = digits[i];
-                    int d2 = digits[j];
-                    int d3 = digits[k];
-
-                    if (d1 == 0) continue;
-                    if (d3 % 2 != 0) continue;
-
-                    int num = d1 * 100 + d2 * 10 + d3;
-                    result.add(num);
+        List<Integer> result = new ArrayList<>();
+        for (int i = 100; i <= 998; i += 2) {
+            int a = i / 100, b = (i / 10) % 10, c = i % 10;
+            int[] local = new int[10];
+            local[a]++;
+            local[b]++;
+            local[c]++;
+            boolean valid = true;
+            for (int d = 0; d < 10; d++) {
+                if (local[d] > freq[d]) {
+                    valid = false;
+                    break;
                 }
             }
+            if (valid) result.add(i);
         }
 
-        List<Integer> sorted = new ArrayList<>(result);
-        Collections.sort(sorted);
-
-        int[] output = new int[sorted.size()];
-        for (int i = 0; i < sorted.size(); i++) {
-            output[i] = sorted.get(i);
+        int[] ret = new int[result.size()];
+        for (int i = 0; i < result.size(); i++) {
+            ret[i] = result.get(i);
         }
-        return output;
+        return ret;
     }
 }
