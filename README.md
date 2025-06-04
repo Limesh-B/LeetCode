@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Limesh-B/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Limesh-B/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Limesh-B/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Limesh-B/LeetCode/tree/master/0118-pascals-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Limesh-B/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Limesh-B/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Limesh-B/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Limesh-B/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Limesh-B/LeetCode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
