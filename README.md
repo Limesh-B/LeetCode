@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Limesh-B/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Limesh-B/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Limesh-B/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Limesh-B/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Limesh-B/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Limesh-B/LeetCode/tree/master/0136-single-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Limesh-B/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Limesh-B/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Limesh-B/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Limesh-B/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Limesh-B/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Limesh-B/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Limesh-B/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Limesh-B/LeetCode/tree/master/0112-path-sum) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Limesh-B/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Limesh-B/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Limesh-B/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Limesh-B/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Limesh-B/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Limesh-B/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Limesh-B/LeetCode/tree/master/0112-path-sum) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Limesh-B/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Limesh-B/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Enumeration
 |  |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Limesh-B/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Limesh-B/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
