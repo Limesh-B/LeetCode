@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Limesh-B/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Limesh-B/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Limesh-B/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Limesh-B/LeetCode/tree/master/0169-majority-element) |
 | [1031-add-to-array-form-of-integer](https://github.com/Limesh-B/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/Limesh-B/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Limesh-B/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Limesh-B/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Limesh-B/LeetCode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/Limesh-B/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Limesh-B/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Limesh-B/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Limesh-B/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Limesh-B/LeetCode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Limesh-B/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Limesh-B/LeetCode/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Limesh-B/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1256-rank-transform-of-an-array](https://github.com/Limesh-B/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Limesh-B/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -189,9 +192,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Limesh-B/LeetCode/tree/master/0169-majority-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Limesh-B/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Limesh-B/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Limesh-B/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
