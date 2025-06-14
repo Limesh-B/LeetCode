@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Limesh-B/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Limesh-B/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Limesh-B/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Limesh-B/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Limesh-B/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/Limesh-B/LeetCode/tree/master/0415-add-strings) |
 | [3194-find-words-containing-character](https://github.com/Limesh-B/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Limesh-B/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Limesh-B/LeetCode/tree/master/0169-majority-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Limesh-B/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Limesh-B/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
