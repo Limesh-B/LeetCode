@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Limesh-B/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Limesh-B/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Limesh-B/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Limesh-B/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Limesh-B/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Limesh-B/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Limesh-B/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Limesh-B/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Limesh-B/LeetCode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/Limesh-B/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Limesh-B/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Limesh-B/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Limesh-B/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Limesh-B/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1256-rank-transform-of-an-array](https://github.com/Limesh-B/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Limesh-B/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Limesh-B/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Limesh-B/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Limesh-B/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Limesh-B/LeetCode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Limesh-B/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1179-game-play-analysis-i](https://github.com/Limesh-B/LeetCode/tree/master/1179-game-play-analysis-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Limesh-B/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
