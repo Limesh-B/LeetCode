@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Limesh-B/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Limesh-B/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Limesh-B/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0342-power-of-four](https://github.com/Limesh-B/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Limesh-B/LeetCode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Limesh-B/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Limesh-B/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Limesh-B/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/Limesh-B/LeetCode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Limesh-B/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Limesh-B/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Limesh-B/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/Limesh-B/LeetCode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
