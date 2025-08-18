@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-reformat-department-table](https://github.com/Limesh-B/LeetCode/tree/master/1301-reformat-department-table) |
 | [1338-queries-quality-and-percentage](https://github.com/Limesh-B/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Limesh-B/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Limesh-B/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Limesh-B/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 ## Heap (Priority Queue)
 |  |
