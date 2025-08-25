@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Limesh-B/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/Limesh-B/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1801-average-time-of-process-per-machine](https://github.com/Limesh-B/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
+| [2024-calculate-special-bonus](https://github.com/Limesh-B/LeetCode/tree/master/2024-calculate-special-bonus) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
