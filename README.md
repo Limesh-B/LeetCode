@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Limesh-B/LeetCode/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Limesh-B/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1256-rank-transform-of-an-array](https://github.com/Limesh-B/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Limesh-B/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Limesh-B/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Limesh-B/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Limesh-B/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Limesh-B/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Limesh-B/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/Limesh-B/LeetCode/tree/master/0415-add-strings) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Limesh-B/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Limesh-B/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3194-find-words-containing-character](https://github.com/Limesh-B/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Limesh-B/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
