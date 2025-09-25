@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1734-bank-account-summary-ii](https://github.com/Limesh-B/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1801-average-time-of-process-per-machine](https://github.com/Limesh-B/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Limesh-B/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1948-rearrange-products-table](https://github.com/Limesh-B/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/Limesh-B/LeetCode/tree/master/2024-calculate-special-bonus) |
 ## Heap (Priority Queue)
 |  |
