@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/Limesh-B/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/Limesh-B/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/Limesh-B/LeetCode/tree/master/2024-calculate-special-bonus) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Limesh-B/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3782-find-valid-emails](https://github.com/Limesh-B/LeetCode/tree/master/3782-find-valid-emails) |
 ## Heap (Priority Queue)
 |  |
