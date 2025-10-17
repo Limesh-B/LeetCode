@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1734-bank-account-summary-ii](https://github.com/Limesh-B/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Limesh-B/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Limesh-B/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
+| [1837-daily-leads-and-partners](https://github.com/Limesh-B/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Limesh-B/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Limesh-B/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Limesh-B/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
