@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Limesh-B/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1031-add-to-array-form-of-integer](https://github.com/Limesh-B/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Limesh-B/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Limesh-B/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Limesh-B/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3830-find-closest-person](https://github.com/Limesh-B/LeetCode/tree/master/3830-find-closest-person) |
 ## Trie
