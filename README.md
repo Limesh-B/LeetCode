@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-calculate-special-bonus](https://github.com/Limesh-B/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Limesh-B/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Limesh-B/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/Limesh-B/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3782-find-valid-emails](https://github.com/Limesh-B/LeetCode/tree/master/3782-find-valid-emails) |
 | [3910-find-books-with-no-available-copies](https://github.com/Limesh-B/LeetCode/tree/master/3910-find-books-with-no-available-copies) |
 ## Heap (Priority Queue)
